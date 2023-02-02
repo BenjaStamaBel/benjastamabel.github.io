@@ -1,32 +1,25 @@
-- title: General Information
+- title: Información General
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Nombre Completo
+      value: Benjamín Santamaría Beltrán
+    - name: Fecha de nacimiento
+      value: 31 de Mayo del 2000
+    - name: Idiomas
+      value: Español, Inglés
 
-- title: Education
+- title: Educación
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Licenciatura
+      institution: Instituto de Energías Renovables, UNAM. Temixco, Morelos, México.
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Ingeniería en Energías Renovables.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Área Terminal | Tecnologías den Energías Renovables.
+            - Promedio | 9.3.
+
 
 - title: Experience
   type: time_table
